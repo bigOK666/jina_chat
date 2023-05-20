@@ -1,0 +1,7 @@
+jtype: Flow
+with:
+  port: 12345
+executors:
+  - uses: PlatoXLExecutor
+    replicas: 1
+    py_modules: ./PlatoXLExecutor/executor.py
