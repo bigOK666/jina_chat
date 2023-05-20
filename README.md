@@ -2,6 +2,8 @@
 
 minimal fullstack chat with jina and plantomini
 
+![](https://github.com/shaomaiguanguan/jina_chat/blob/main/platominichatbot.gif)
+
 # Quick start
 
 In `platomini` folder:
